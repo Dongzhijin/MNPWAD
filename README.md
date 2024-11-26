@@ -16,7 +16,7 @@ To get started with Project Name, follow the steps below to set up the developme
 git clone https://github.com/Dongzhijin/MNPWAD.git
 
 # Navigate to the project directory
-cd code
+cd MNPWAD
 
 # Install dependencies
 pip install -r requirements.txt

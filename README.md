@@ -1,6 +1,6 @@
 # Project Name
 
-The offcial code for paper "Multi-Normal Prototypes Learning for Weakly Supervised Anomaly Detection".
+The offcial code for paper ["Multi-Normal Prototypes Learning for Weakly Supervised Anomaly Detection"](https://arxiv.org/abs/2408.14498).
 
 ## Overview
 

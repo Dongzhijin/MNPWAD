@@ -32,6 +32,7 @@ def parse_args():
     parser.add_argument('--lr', type=float, default=0.005)
     parser.add_argument('--n_emb', type=int, default=8)
     parser.add_argument('--m1', type=float, default=0.02)
+    parser.add_argument('--lambda_kl', type=float, default=1.0)
     parser.add_argument('--debug', type=ast.literal_eval, default=False)
     parser.add_argument('--pretrainAE', type=ast.literal_eval, default=True)
     parser.add_argument('--n_prototypes', type=int, default=0)
